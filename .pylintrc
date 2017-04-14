@@ -1,0 +1,10 @@
+[MESSAGES CONTROL]
+disable=no-member,
+        locally-disabled,
+        too-few-public-methods
+
+[MASTER]
+ignore=somefile.py,
+
+[FORMAT]
+max-line-length=79

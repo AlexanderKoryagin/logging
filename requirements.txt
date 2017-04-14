@@ -1,0 +1,8 @@
+# PyTest
+pyyaml
+
+# Code check
+pylint
+flake8
+flake8_docstrings
+hacking
