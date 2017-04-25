@@ -1,4 +1,4 @@
-### Some logging experiments
+### Python logger example for projects
 
 ***
 
