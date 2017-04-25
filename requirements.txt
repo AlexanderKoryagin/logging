@@ -1,4 +1,4 @@
-# PyTest
+# Config reader
 pyyaml
 
 # Code check
